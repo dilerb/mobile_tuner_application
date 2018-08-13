@@ -1,0 +1,2 @@
+android.app.Application
+mobil_akord_setup.mobil_akord_setup

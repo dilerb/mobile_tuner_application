@@ -1,0 +1,15 @@
+C:\Users\babil\documents\visual studio 2015\Projects\App1\App1\bin\Debug\App1.dll
+C:\Users\babil\documents\visual studio 2015\Projects\App1\App1\bin\Debug\App1.pdb
+C:\Users\babil\documents\visual studio 2015\Projects\App1\App1\bin\Debug\mobil_akord_setup.mobil_akord_setup.apk
+C:\Users\babil\documents\visual studio 2015\Projects\App1\App1\bin\Debug\mobil_akord_setup.mobil_akord_setup-Signed.apk
+C:\Users\babil\documents\visual studio 2015\Projects\App1\App1\obj\Debug\App1.dll
+C:\Users\babil\documents\visual studio 2015\Projects\App1\App1\obj\Debug\App1.pdb
+C:\Users\babil\documents\visual studio 2015\Projects\App1\App1\obj\Debug\android\bin\mobil_akord_setup.mobil_akord_setup.apk
+C:\Users\babil\documents\visual studio 2015\Projects\App1\App1\obj\Debug\res\layout\main.xml
+C:\Users\babil\documents\visual studio 2015\Projects\App1\App1\obj\Debug\res\values\strings.xml
+C:\Users\babil\documents\visual studio 2015\Projects\App1\App1\obj\Debug\res\drawable\icon.png
+C:\Users\babil\documents\visual studio 2015\Projects\App1\App1\obj\Debug\R.cs.flag
+C:\Users\babil\documents\visual studio 2015\Projects\App1\App1\obj\Debug\uploadflags.txt
+C:\Users\babil\documents\visual studio 2015\Projects\App1\App1\bin\Debug\App1.dll.mdb
+C:\Users\babil\documents\visual studio 2015\Projects\App1\App1\obj\Debug\android\assets\App1.dll.mdb
+C:\Users\babil\documents\visual studio 2015\Projects\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
